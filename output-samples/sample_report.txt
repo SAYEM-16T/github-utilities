@@ -1,0 +1,37 @@
+👤 GitHub Profile: sample-user
+Generated At: 2026-03-12 10:00:00 UTC
+Mode: selected repos
+Total Repositories in Report: 2
+Token Used: No
+Max Depth: 2
+Emojis: Enabled
+
+sample-user/
+├── 📦 github-utilities
+│       • 📝 Description: A practical utility for GitHub tree reporting
+│       • ⭐ Stars: 0
+│       • 💻 Language: Python
+│       • 🌿 Default Branch: main
+│       • 🕒 Updated At: 2026-03-12T00:00:00Z
+│           • 📁 Folders: 2
+│           • 📄 Files: 5
+│   ├── 📚 docs
+│   │   └── 📘 usage.md
+│   ├── 📁 output-samples
+│   │   └── 📝 sample_report.txt
+│   ├── 🙈 .gitignore
+│   ├── 📜 LICENSE
+│   ├── 📘 README.md
+│   ├── 🐍 github_tree_report.py
+│   └── 📋 requirements.txt
+└── 📦 another-repo
+        • 📝 Description: Example repo
+        • ⭐ Stars: 1
+        • 💻 Language: Shell
+        • 🌿 Default Branch: main
+        • 🕒 Updated At: 2026-03-11T00:00:00Z
+            • 📁 Folders: 1
+            • 📄 Files: 3
+    ├── 📁 scripts
+    ├── 📘 README.md
+    └── 🐚 deploy.sh
