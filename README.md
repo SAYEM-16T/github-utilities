@@ -163,6 +163,5 @@ See [`CHANGELOG.md`](https://github.com/SAYEM-16T/github-utilities/blob/main/CHA
 
 
 ## License
-```md
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-```
+
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/SAYEM-16T/github-utilities/blob/main/LICENSE)  file for details.```
